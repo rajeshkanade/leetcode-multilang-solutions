@@ -1,5 +1,11 @@
 /**
  Do not return anything, modify matrix in-place instead.
+   Approach : 
+  1) created two boolean array rows and column it stores true if on ith row position there occurs 0 then other wise by default no false we have to set to false
+  eg. 
+  let rows : boolean[] = new Array(matrix.length).fill(false);  // create the false value according to length of array 
+  same for columns 
+  2) now iterate throw the matrix again then check if rows[i] or cols[j] is true if yes then make current index value 0
  */
 
 function setZeroes(matrix: number[][]): void {

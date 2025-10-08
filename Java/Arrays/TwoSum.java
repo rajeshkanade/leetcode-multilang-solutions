@@ -1,3 +1,14 @@
+/* 
+ * Two Sum Approach 
+ * 1) created the hashmap to store the each number as key and it index as value   such that if complement == number present in hashmap then for getting the value as an index
+ * eg. HashMap<Integer,Integer> map = new HashMap<>();
+ * 2) Iterate using for loop and calculate the complement 
+ * 3) If complement present in hashKey then return current index of element and value of that complement from the hashmap
+ * 4) Otherwise current number in hashMap as key and it index as value 
+ * 5) If no two number are present then return the empty array 
+ * 
+ */
+
 package Java.Arrays;
 import java.util.HashMap;
 
