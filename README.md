@@ -11,6 +11,7 @@ Solving LeetCode problems in **Java**, **Python**, and **TypeScript** to improve
 | 2 | [Two Sum](https://leetcode.com/problems/two-sum/)                    | Array | Medium     | [Code](./Python/Arrays/TwoSum.py)         |
 | 3 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Array | Medium     | [Code](./Python/Arrays/PascalTriangle.py) |
 | 4 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  | Array | Medium     | [Code](./Python/Arrays/MaximumSubArray.py) |
+| 5 | [Sort Colors](https://leetcode.com/problems/sort-colors/)  | Array | Medium     | [Code](./Python/Arrays/sort_colors.py) |
 
 
 <!-- ### progess table all 
